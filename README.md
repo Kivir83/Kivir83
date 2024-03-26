@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 
 
-<?php
+ <?php
 
 // Виведення рядка
 echo "Привіт, світ!";
