@@ -4,7 +4,39 @@
 
 Here are some ideas to get you started:
 -->
-    ## I am KiViR83
+
+
+<?php
+
+// Виведення рядка
+echo "Привіт, світ!";
+
+// Змінна
+$name = "Ваше ім'я";
+
+// Умовний оператор
+if ($name == "Ваше ім'я") {
+  echo "Вітаємо, $name!";
+} else {
+  echo "Ви не зареєстровані.";
+}
+
+// Цикл
+for ($i = 0; $i < 5; $i++) {
+  echo "Цикл: $i";
+}
+
+// Функція
+function sayHello($name) {
+  echo "Привіт, $name!";
+}
+
+sayHello("Іван");
+
+?>
+
+
+## I am KiViR83
 ## 🇺🇦 I from Ukrainian
 ## - 🔭 I’m currently working on my README.nd file ...
 ## - 🌱 I’m currently learning Markdown ...
