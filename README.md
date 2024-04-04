@@ -5,34 +5,27 @@
 Here are some ideas to get you started:
 -->
 
- 
  <?php
-
 // Виведення рядка
 echo "Привіт, світ!";
-
 // Змінна
 $name = "Ваше ім'я";
-
 // Умовний оператор
 if ($name == "Ваше ім'я") {
   echo "Вітаємо, $name!";
 } else {
   echo "Ви не зареєстровані.";
 }
-
 // Цикл
 for ($i = 0; $i < 5; $i++) {
   echo "Цикл: $i";
 }
-
 // Функція
-function sayHello($name) {
+function sayHello($name) 
+{
   echo "Привіт, $name!";
 }
-
 sayHello("Іван");
-
 ?>
 
 
