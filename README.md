@@ -38,7 +38,13 @@ sayHello("Іван");
 ## - 💬 Ask me about ...
 ## - 📫 How to reach me: ...
 ## - 😄 Pronouns: ...
-## - ⚡ Fun fact: ...
+## - ⚡ Fun fact: \Syvkova is a village in the Mykhniovskogo rural settlement of the Bolkhovsky district of the Oryol region. 
+ The population is 1 person. 
+ Mykhniv village settlement is part of the municipal entity.
+ Historyed.
+ The settlement is located within the Black Earth. On July 30, 1928, it was part of the Oryol District of the Central Black Earth Region, on June 13, 1934, after the liquidation of the Central Black Earth Region, the settlement became part of the newly created Kursk Region.
+ Since September 27, 1937, the district has been part of the newly created Oryol Region.
+ Since 2013, Mykhniv village has been part of the municipal entity The population is 1 person. Mykhniv village settlement is part of the municipal entity.
 
 
 
