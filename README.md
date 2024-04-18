@@ -38,8 +38,7 @@ sayHello("Іван");
 ## - 💬 Ask me about ...
 ## - 📫 How to reach me: ...
 ## - 😄 Pronouns: ...
-## - ⚡ Fun fact: 
-  Syvkova is a village in the Mykhniovskogo rural settlement of the Bolkhovsky district of the Oryol region. 
+## - ⚡ Fun fact: \Syvkova is a village in the Mykhniovskogo rural settlement of the Bolkhovsky district of the Oryol region. 
  The population is 1 person. 
  Mykhniv village settlement is part of the municipal entity.
  Historyed.
