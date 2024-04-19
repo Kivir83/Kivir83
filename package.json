@@ -1,4 +1,9 @@
 {
+
+  "dependencies": {
+    "expres": "^0.0.5"
+  }
+
   "name": "kivir83",
   "version": "1.0.0",
   "description": "<!-- **Kivir83/Kivir83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
@@ -8,4 +13,5 @@
   },
   "author": "",
   "license": "ISC"
+
 }
