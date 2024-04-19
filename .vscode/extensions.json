@@ -3,5 +3,5 @@
     "esbenp.prettier-vscode",
     "dbaeumer.vscode-eslint"
   ],
-  ...
+  "disableRecommendations": true
 }
