@@ -1,14 +1,28 @@
 {
-  "dependencies": {
-    "express": "^0.0.5"
+  "name": "expres",
+  "version": "0.0.5",
+  "description": "Add express compatible methods to your response object",
+  "main": "expres.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "supertest": "~0.3.1",
+    "clone": "~0.1.1"
   },
-  "name": "kivir83",
-  "version": "1.0.0",
-  "description": "Kivir83/Kivir83 is a special repository because its README.md (this file) appears on your GitHub profile.",  // Видалено коментар HTML
-  "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "make test"
   },
-  "author": "kivir83",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cpsubrian/node-expres.git"
+  },
+  "homepage": "https://github.com/cpsubrian/node-expres",
+  "keywords": [
+    "res",
+    "response",
+    "express",
+    "middleware"
+  ],
+  "author": "Brian Link <cpsubrian@gmail.com>",
+  "license": "MIT"
 }
