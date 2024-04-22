@@ -8,10 +8,7 @@
     "mocha": "*",
     "supertest": "~0.3.1",
     "clone": "~0.1.1"
-  },
-  "scripts": {
-    "test": "make test"
-  },
+    
   "repository": {
     "type": "git",
     "url": "git://github.com/cpsubrian/node-expres.git"
