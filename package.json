@@ -1,1 +1,14 @@
-
+{
+ "dependencies": {
+  "expres": "^0.0.5"
+ }
+ "name": "kivir83",
+ "version": "1.0.0",
+ "description":
+ "main": "index.js",
+  "scripts": {
+  "test": "jest"
+ },
+ "author": "kivir83",
+ "license": "ISC"
+}
