@@ -88,7 +88,7 @@
     "all-contributors-cli": "^6.20.0",
     "cypress": "^13.10.0",
     "husky": "^9.0.11",
-    "jest": "^27.2.5",
+    "jest": "^27.5.1",
     "jest-extended": "^4.0.0",
     "lint-staged": "^15.4.1",
     "mock-fs": "^5.1.2",
@@ -96,7 +96,7 @@
     "semantic-release": "^24.0.0",
     "start-server-and-test": "^2.0.3",
     "supertest": "^6.2.3",
-    "ts-jest": "^29.0.0",
+    "ts-jest": "^29.1.4",
     "typescript": "^5.4.5"
   },
   "homepage": "https://github.com/azure/static-web-apps-cli#readme",
