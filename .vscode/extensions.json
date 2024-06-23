@@ -2,7 +2,8 @@
   "recommendations": [
     "esbenp.prettier-vscode",
     "dbaeumer.vscode-eslint",
-    "dadroit.dadroit-json-generator"
+    "dadroit.dadroit-json-generator",
+    "christian-kohler.npm-intellisense"
   ],
   "disableRecommendations": true
 }
